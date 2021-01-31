@@ -1,5 +1,8 @@
-### Hi there 👋
-
+### 
+# Elisheva BarAm <h1> 
+![Image](https://github.com/eli7eb/eli7eb/blob/main/feedback_yes_1.png) <h6> 
+## Design and program video games <h2> 
+###### Work in progres projects <h4> 
 <!--
 **eli7eb/eli7eb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
